@@ -46,4 +46,9 @@ hdfs dfs -copyFromLocal ./shakespeare/tragedy /user/student/shakespeare
  ./performance.py hdfs://localhost:9000/user/student/airline/1987.csv hdfs://localhost:9000/tmp/output
 
 ```
+```bash
+
+ ./performance.py hdfs://localhost:9000/user/student/airline/2001.csv hdfs://localhost:9000/tmp/output
+
+```
 
